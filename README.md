@@ -1,3 +1,3 @@
-# SASS Boiler
+# mizuxe from SASS Boiler
 
-initial readme
+updated readme
